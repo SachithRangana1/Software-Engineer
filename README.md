@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Sachith Rangana
-#### Full-Stack Software Engineer Aiming to Drive Technological Excellence and Efficiency
+### Full-Stack Software Engineer Aiming to Drive Technological Excellence and Efficiency
 ![Full-Stack Software Engineer Aiming to Drive Technological Excellence and Efficiency](https://media.licdn.com/dms/image/D5616AQFnL_aqmGkp-w/profile-displaybackgroundimage-shrink_350_1400/0/1721846556194?e=1727308800&v=beta&t=8VK3gnzL1JgdYaaF6u2m5Tjpy9reLh9RNvt29TnlD3o)
 
 I am a dedicated Full-Stack Software Engineer skilled in both backend and frontend development. I focus on creating efficient, scalable applications and delivering high-quality user experiences. Passionate about solving complex problems and committed to continuous learning, I strive to drive technological excellence and achieve business objectives.
